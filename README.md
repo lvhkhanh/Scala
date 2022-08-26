@@ -1,4 +1,4 @@
 # Scala
 
 ## Books
-### https://www.syncfusion.com/ebooks/scala_succinctly
+- [ ] https://www.syncfusion.com/ebooks/scala_succinctly
